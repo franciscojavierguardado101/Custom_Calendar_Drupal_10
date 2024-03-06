@@ -1,0 +1,5 @@
+name: fullcalendar
+description: "FullCalendar JavaScript library for calendar display."
+js:
+  "/path/to/fullcalendar/dist/fullcalendar.min.js": {}
+  "/path/to/fullcalendar/dist/fullcalendar.css": {}  # Added closing quotes for CSS file
